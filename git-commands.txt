@@ -1,0 +1,9 @@
+git clone <your github url>
+npm install
+cd <into the directory>
+git status
+git add -add
+git status
+git commit -m "your message"
+git push
+
